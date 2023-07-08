@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="http://mazandi.herokuapp.com/api?handle=julia8024&theme=warm"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia8024&layout=donut&theme=radical)](https://github.com/julia8024/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julia8024&show_icons=true&theme=radical)
