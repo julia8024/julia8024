@@ -33,6 +33,8 @@
 <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia8024&layout=donut&theme=radical&hide=c%23,shaderlab,glsl,hlsl)](https://github.com/julia8024/github-readme-stats)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulia8024%2Fhit-counter&count_bg=%23FF5C70&title_bg=%23000000&icon=pinboard.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
