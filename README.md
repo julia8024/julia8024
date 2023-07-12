@@ -11,7 +11,7 @@
 
 <br>
 
-### 🛠 Skill
+### 🛠 Skills
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
@@ -29,8 +29,6 @@
 <br>
 <br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julia8024&layout=donut&theme=radical&hide=c%23,shaderlab,glsl,hlsl)](https://github.com/julia8024/github-readme-stats)
 
 <img src="http://mazandi.herokuapp.com/api?handle=julia8024&theme=warm"/>
 
