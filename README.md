@@ -36,6 +36,16 @@
 <br>
 <br>
 
+
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julia8024)](https://solved.ac/julia8024/) | #Velog 최신글 <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=julia8024)](https://velog.io/@julia8024/posts) |
+| :---: | :--- |
+
+
+
+<br>
+<br>
+<br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjulia8024%2Fhit-counter&count_bg=%23FF5C70&title_bg=%23000000&icon=pinboard.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
