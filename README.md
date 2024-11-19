@@ -3,7 +3,7 @@
 <div align="center">
 
 
-# 안녕하세요! Front-end 개발자를 꿈꾸는 장세희입니다 :blush:
+# 안녕하세요! 디자인하는 개발자 장세희입니다 :blush:
 
 <a href="https://www.notion.so/julia8024/b623854e8bae4958a4209e8e76c0e07e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://velog.io/@julia8024/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=ffffff"/></a>
