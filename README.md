@@ -5,7 +5,6 @@
 
 # 안녕하세요! 디자인하는 개발자 장세희입니다 :blush:
 
-<a href="https://www.notion.so/julia8024/b623854e8bae4958a4209e8e76c0e07e?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://velog.io/@julia8024/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=ffffff"/></a>
 
 
@@ -13,11 +12,12 @@
 
 ### 🛠 Skills
 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/TypeScript-3078C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/>
+<br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=ffffff"/>
 <br>
