@@ -31,6 +31,16 @@
 <br>
 <br>
 
+### 🛠 Published
+
+| [![glow-log](https://github.com/user-attachments/assets/5ce3b008-ef74-484e-bc42-6c2fc2de1271)](https://apps.apple.com/kr/app/glow-log/id6751239350/) | [![velog-log](https://github.com/user-attachments/assets/4e251b0a-0593-44e2-a13a-1ac1beb0f225)](https://apps.apple.com/kr/app/velog-log/id6578457334) |
+| :---: | :---: |
+
+<br>
+<br>
+<br>
+<br>
+
 
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julia8024)](https://solved.ac/julia8024/) | #Velog 최신글 <br> [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=julia8024)](https://velog.io/@julia8024/posts) |
 | :---: | :--- |
